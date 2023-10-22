@@ -1,5 +1,4 @@
-//authpr: Yingtong(Clue) Deng
-//hw03
+//author: Yingtong(Clue) Deng
 //The purpose of this file is to read into warriors.txt to identify the warriors in the file with their names and weapons, and then put the warriors in a fight to change their according strength.
 //
 
